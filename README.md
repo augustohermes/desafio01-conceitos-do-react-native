@@ -2,7 +2,7 @@
   <img alt="Capa do desafio 1" width="90%" src="./.github/ignite.png">
 </div>
 
-<h1 align="center"> RocketSeat 🚀 Ignite React Native 📱</h1>
+<h1 align="center"> RocketSeat 🚀 Ignite ReactJS 📱</h1>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -25,6 +25,32 @@ As funcionalidades do aplicativo são:
 - [x] Adicionar uma nova tarefa;
 - [x] Remover uma tarefa;
 - [x] Marcar e desmarcar uma tarefa como concluída.
+
+## ⚙️ Instalação do projeto
+
+## Clone este repositório e acesse o diretório
+
+```sh
+$ git clone git@github.com:augustohermes/desafio01-conceitos-do-react-native.git && cd desafio01-conceitos-do-react-native
+```
+
+## Instale as dependências necessárias
+
+```sh
+$ yarn
+```
+
+## Rodando o projeto
+
+```sh
+$ yarn start
+```
+
+## Abra outro terminal e inicie o projeto no emulador
+
+```ssh
+$ npx react-native run-android
+```
 
 <br>
 
