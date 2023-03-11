@@ -2,7 +2,7 @@
   <img alt="Capa do desafio 1" width="90%" src="./.github/ignite.png">
 </div>
 
-<h1 align="center"> RocketSeat 🚀 Ignite React Native 🔥</h1>
+<h1 align="center"> RocketSeat 🚀 Ignite React Native 📱</h1>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
